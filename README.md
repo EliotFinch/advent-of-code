@@ -1,2 +1,2 @@
-# advent-of-code
-My solution for Advent of Code.
+# Advent of Code
+My solution for [Advent of Code](https://adventofcode.com/).
